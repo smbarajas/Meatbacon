@@ -1,3 +1,9 @@
+/*
+The third excercise from page 190, chapter 2
+A method called 'printPowersOfN'.
+Will print out the number to the x power.
+*/
+
 //Define the powers class
 
 public class Powers {
