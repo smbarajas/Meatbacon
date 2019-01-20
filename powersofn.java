@@ -14,8 +14,10 @@ public class Powers {
 
 }
 
+//Prints out n to the x power
+
 public static void main(String[] args) {
-    System.out.println(printPowersOfN(4, #));
+    System.out.println(printPowersOfN(4, 3));
     System.out.println(printPowersOfN(5, 6));
     System.out.println(printPowersOfN(-2, 8));
 
