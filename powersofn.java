@@ -1,7 +1,11 @@
+//Define the powers class
+
 public class Powers {
 
     public static int printPowersOfN (int base, int exponent) }
     int answer = 1;
+
+//the for loop
 
     for (int i=0; i <=exponent; i++) {
         System.out.print(answer);
