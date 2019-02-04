@@ -1,8 +1,7 @@
 /*
 Wrote a method called printGPA which will calculate a student's grade point average.
 After typing a line of input which contains the student's name, user will then input a number
-of scores, followed by that number of integer scores.+
-
+of scores, followed by that number of integer scores.
 */
 
 public static void printGPA() {
