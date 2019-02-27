@@ -2,7 +2,7 @@
 If it's sorted in a descending order, it will return as "false". 
 */
 
-public class work6_2 {
+public class isSorted {
 	public static void main (String[] args) {
 		double[] list1 = {10, 11, 12, 13, 14, 15, 16, 17};
 		double[] list2 = {10, 11, 12, 13, 14, 15, 16, 17, 16};
@@ -29,7 +29,6 @@ public class work6_2 {
 			if (counter > 0)
 			{
 				if (lastValue > d) {
-				//not ascending
 					return false;
 				}
 			}
