@@ -7,19 +7,19 @@ public class Employee {
 	private String baseVacationForm = "yellow";
 
 	public int getHours() {
-		return baseHours;                // 40 hours/week
+		return baseHours;               
 	}
 
 	public double getSalary() {
-		return baseSalary;               // $40,000.00
+		return baseSalary;               
 	}
 
 	public int getVacationDays() {
-		return baseVacationDays;         // 10 days
+		return baseVacationDays;        
 	}
 
 	public String getVacationForm() {
-		return baseVacationForm;         // yellow
+		return baseVacationForm;         
 	}
 
   public void applyForVacation() {
