@@ -1,2 +1,2 @@
 # Meatbacon
-This is the first 12 numbers of the Fibonacci Sequence, for my ITC 115 class.
+Homework assignments for my ITC 115 Java object oriented programming class.
